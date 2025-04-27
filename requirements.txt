@@ -1,0 +1,8 @@
+selenium
+requests
+lxml
+tqdm
+pandas
+yfinance
+aiohttp
+termcolor
